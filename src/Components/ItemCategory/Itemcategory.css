@@ -1,0 +1,41 @@
+.text-block {
+    position: absolute;
+    bottom: 110px;
+
+    background-color: black;
+    color: white;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    border-radius: 1.2rem;
+}
+
+.cardStyle{
+    width: 265px!important;
+}
+.btn.focus,
+.btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.09rem black !important;
+}
+
+
+
+.card-title {
+    font-weight: 600;
+}
+
+.text-muted {
+    font-size: 15px;
+}
+
+.blockStyle {
+    margin-top: 25px !important;
+}
+
+
+.btn.focus,
+.btn:focus {
+    box-shadow: black 0px 0px 0px 0.07rem;
+}
+
