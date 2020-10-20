@@ -1,15 +1,15 @@
-@font-face {
-    font-family: rubic;
-    src: url(../assets/JosefinSans-Regular.ttf);
-}
+/*@font-face {*/
+/*    font-family: rubic;*/
+/*    src: url(../assets/JosefinSans-Regular.ttf);*/
+/*}*/
 
-.title {
-    font-family: rubic;
-}
+/*.title {*/
+/*    font-family: rubic;*/
+/*}*/
 
-.singleImageHover :hover {
-    border: 1px solid #ffab00 !important;
-}
+/*.singleImageHover :hover {*/
+/*    border: 1px solid #ffab00 !important;*/
+/*}*/
 
 .bigItem {
 
@@ -17,68 +17,68 @@
     height: 567px !important;
 }
 
-.morecontent span {
-    display: none;
-}
+/*.morecontent span {*/
+/*    display: none;*/
+/*}*/
 
-.morelink {
-    display: block;
-}
+/*.morelink {*/
+/*    display: block;*/
+/*}*/
 
-.btn-change {
-    height: 38px;
-    width: 113px;
-    background: #ffab00;
-    margin: 20px;
-    float: left;
-    border: 0px !important;
-    color: whitesmoke;
-    box-shadow: 0 0 1px rgb(10, 6, 6);
-    transition-duration: 0.1s;
-    -webkit-transition-timing-function: linear;
-    box-shadow: 0px 0 0 #060a0c inset;
-    margin-left: 0px !important;
-    width: 223px;
-    height: 50px;
-    font-family: young-serif;
-    font-size: 15px;
-}
+/*.btn-change {*/
+/*    height: 38px;*/
+/*    width: 113px;*/
+/*    background: #ffab00;*/
+/*    margin: 20px;*/
+/*    float: left;*/
+/*    border: 0px !important;*/
+/*    color: whitesmoke;*/
+/*    box-shadow: 0 0 1px rgb(10, 6, 6);*/
+/*    transition-duration: 0.1s;*/
+/*    -webkit-transition-timing-function: linear;*/
+/*    box-shadow: 0px 0 0 #060a0c inset;*/
+/*    margin-left: 0px !important;*/
+/*    width: 223px;*/
+/*    height: 50px;*/
+/*    font-family: young-serif;*/
+/*    font-size: 15px;*/
+/*}*/
 
-.addToBag:hover {
-    box-shadow: 223px 0 0 #040505 inset;
-}
+/*.addToBag:hover {*/
+/*    box-shadow: 223px 0 0 #040505 inset;*/
+/*}*/
 
-.smallItem {
-    height: 179px !important;
-    width: auto !important;
+/*.smallItem {*/
+/*    height: 179px !important;*/
+/*    width: auto !important;*/
 
-}
+/*}*/
 
-.smallItem1 {
-    margin-bottom: 15px;
-}
+/*.smallItem1 {*/
+/*    margin-bottom: 15px;*/
+/*}*/
 
-.btn.focus,
-.btn:focus {
-    outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(255, 171, 0, 0.45) !important;
-}
+/*.btn.focus,*/
+/*.btn:focus {*/
+/*    outline: 0;*/
+/*    box-shadow: 0 0 0 0.2rem rgba(255, 171, 0, 0.45) !important;*/
+/*}*/
 
-.circle-btn {
-    min-height: 100px;
-    line-height: 100px;
+/*.circle-btn {*/
+/*    min-height: 100px;*/
+/*    line-height: 100px;*/
 
-}
+/*}*/
 
-.circle-btn button {
-    margin: 10px;
-    border-radius: 50%;
-    height: 45px;
-    width: 45px;
-    font-size: 12px;
-    border-color: #c7c7c7;
-    font-weight: 500;
-}
+/*.circle-btn button {*/
+/*    margin: 10px;*/
+/*    border-radius: 50%;*/
+/*    height: 45px;*/
+/*    width: 45px;*/
+/*    font-size: 12px;*/
+/*    border-color: #c7c7c7;*/
+/*    font-weight: 500;*/
+/*}*/
 
 /* --image changer-- */
 
@@ -86,29 +86,29 @@
 
 
 
-.previews,
-.full,
-.desc {}
+/*.previews,*/
+/*.full,*/
+/*.desc {}*/
 
-.desc,
-.full {
+/*.desc,*/
+/*.full {*/
 
-    font-size: 12px;
-}
+/*    font-size: 12px;*/
+/*}*/
 
-.desc h2 {}
+/*.desc h2 {}*/
 
-.previews a {}
+/*.previews a {}*/
 
-.full,
-.full img {}
+/*.full,*/
+/*.full img {}*/
 
-.previews a,
-.full {}
+/*.previews a,*/
+/*.full {}*/
 
-.previews a:hover,
-.previews a.selected {}
+/*.previews a:hover,*/
+/*.previews a.selected {}*/
 
-.full img:hover {
-    cursor: pointer;
-}
+/*.full img:hover {*/
+/*    cursor: pointer;*/
+/*}*/
